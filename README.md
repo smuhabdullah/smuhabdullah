@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Abdullah👋<a href="https://smuhabdullah.web.app/"></h1>
+    <h1> Hi there, I'm Muhammad Abdullah👋<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
@@ -30,46 +30,35 @@
 </tr>
  
 <tr>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
-    <td align='center'>
+    <td align='center' width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
   
- <td align='center'>
+ <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="80">
     </td>
-<!--      <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td> -->
+    
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+    <td align='center' width="200">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="80">
     </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+    <td align='center' width="200">
+        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="80">
     </td>
-<!--  <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td> 
+  
   <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-   <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="80">
-    </td> -->
-  
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
 </tr>
     
 </table>
 </p>
-<p align="center">
+<p width="100">
 <a href="https://www.linkedin.com/in/smuhabdullah/"><img src="https://img.shields.io/badge/-Muhammad%20Abdullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mabdullahuit19b@gmail.com"><img src="https://img.shields.io/badge/-mabdullahuit19b@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/m_abdullaharif/"><img src="https://img.shields.io/badge/-@muhammadabdullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -95,5 +84,7 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/smuhabdullah/smuhabdullah/blob/main/.github/workflows/main.svg" alt="snake"></center>
+  <img src="https://github.com/smuhabdullah/smuhabdullah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
