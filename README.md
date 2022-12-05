@@ -6,6 +6,7 @@
 <a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
 	
 ### I'm a Python Developer, Teacher and Researcher!
+- 🌱 I’m currently learning Data Science Tools from "Coursera", Data Science Professional Certificate From "DataCamp"
 - 🌱 I’m currently expanding my knowledge in Data Analytics.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
