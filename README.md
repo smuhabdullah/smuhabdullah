@@ -4,9 +4,7 @@
   </div>
 <p align="center">
 <a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Python+Developer;Data+Science+Enthusiast;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
-<br/>
-<div align="center"><a href="https://komarev.com/ghpvc/?username=smuhabdullah&color=blueviolet&label=Profile+Views"></a></div><br/>
- 
+
 ### Welcome to My GitHub Profile!
 Experienced Python Developer specializing in data science. I hold a Bachelor's degree in Computer Science from Usman Institute of Technology. Currently, I'm a Python Developer at Odolution, exhibited proficiency in designing and optimizing Odoo modules for improved performance and usability across 3 or more projects, with hands-on experience in Odoo versions 14, 15, 16, and 17. My leadership in the Sugarcane Disease Detector project showcases my skills in Python, CNN, and Django. I'm also an active volunteer with a passion for community service.
 
@@ -119,7 +117,8 @@ This README serves as an introduction to who I am and what I am currently focusi
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=smuhabdullah&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=smuhabdullah&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-<br>
+<!-- ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views) -->
+
 	
 
 
