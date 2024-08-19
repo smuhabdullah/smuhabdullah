@@ -95,9 +95,8 @@ This README serves as an introduction to who I am and what I am currently focusi
 <a href="mailto:mabdullahuit19b@gmail.com"><img src="https://img.shields.io/badge/-mabdullahuit19b@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 	<a href="https://smuhabdullah.medium.com/"><img src="https://img.shields.io/badge/-smuhabdullah-black ?style=flat&logo=medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/m_abdullaharif/"><img src="https://img.shields.io/badge/-@muhammadabdullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://smuhabdullah.me/"><img src="https://img.shields.io/badge/-/smuhabdullah-e8b519?style=flat&logo=portfolio&logoColor=green"/></a>
+<a href="https://smuhabdullah.github.io/"><img src="https://img.shields.io/badge/-/smuhabdullah-e8b519?style=flat&logo=portfolio&logoColor=green"/></a>
  </p>
- 
 <br>
 
  
