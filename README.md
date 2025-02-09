@@ -1,29 +1,40 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Abdullah👋<a href="#"></h1>
+    <h1> Hi there, I'm Muhammad Abdullah👋 </br>Python & Odoo Developer <a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Python+Developer;Data+Science+Enthusiast;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
+<a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Odoo+Developer;Python+Developer;Data+Science+Enthusiast&center=true&width=500&height=50"></a>
 
-### Welcome to My GitHub Profile!
-Experienced Python Developer specializing in data science. I hold a Bachelor's degree in Computer Science from Usman Institute of Technology. Currently, I'm a Python Developer at Odolution, exhibited proficiency in designing and optimizing Odoo modules for improved performance and usability across 3 or more projects, with hands-on experience in Odoo versions 14, 15, 16, and 17. My leadership in the Sugarcane Disease Detector project showcases my skills in Python, CNN, and Django. I'm also an active volunteer with a passion for community service.
+### 👋 Welcome to My GitHub Profile!  
 
-This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
+I am a **Senior Odoo Consultant & Python Developer** with expertise in **Odoo ERP (14, 15, 16, 17 & 18), Django, and Data Science**. As the **Founder of DevPii** and a former **Senior Technical Consultant at Odolution (Odoo Gold Partner)**, I have successfully designed and optimized Odoo modules, implemented automation, and enhanced ERP functionalities for various businesses.  
 
-- 🌱 Instructed 4 batches of students, providing guidance to over 100+ individuals in developing their future skills at BanoQabil 2.0.
-- 🌱 Pursuing the Google Data Analyst course to learn valuable data analysis techniques and tools.
-- 👯 Looking forward to collaborating with other developers and data enthusiasts on interesting projects.
-- 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
-- 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
+📌 **Key Highlights:**  
+- **👨‍💻 Odoo Development:** Customized and optimized **10+ Odoo projects**, including **Cross Border Freight Management**, **Tagged Messages Module**, and **POS Customization**.  
+- **🎓 Instructor & Mentor:** Trained **150+ students** in Python programming at **BanoQabil**.  
+- **💡 Machine Learning & AI:** Led the **Sugarcane Disease Detector** FYP - Tech Stack ( **Python, CNN, and Django** ).  
+- **📈 Data Science Enthusiast:** Currently pursuing **Google Data Analytics Certification** to strengthen my data analysis expertise.  
 
- 
+### 🔥 What I Do  
+✅ **Odoo ERP Development & Customization**  
+✅ **API Development & System Integrations**  
+✅ **Django & Backend Development**  
+✅ **Machine Learning & AI Solutions**  
+
+### 🚀 Let's Connect  
+📧 **Email:** abdullah@devpii.com  
+🔗 **LinkedIn:** [linkedin.com/in/smuhabdullah](https://linkedin.com/in/smuhabdullah)  
+🌍 **Portfolio:** [smuhabdullah.github.io](https://smuhabdullah.github.io)  
+
+💡 **Open to collaborations and freelance projects in Odoo, Python, and Data Science!**  
+
 <h2>Tech Stack</h2>
 
 <table width="100" align='justify-center'>
 <tr>
 
   <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  width="80">
     </td>
   <td align='center' width="200">
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
