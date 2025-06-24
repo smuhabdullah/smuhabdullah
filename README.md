@@ -9,6 +9,11 @@
 
 I am a **Senior Odoo Consultant & Python Developer** with expertise in **Odoo ERP (14, 15, 16, 17 & 18), Django, and Data Science**. As the **Founder of DevPii** and a former **Senior Technical Consultant at Odolution (Odoo Gold Partner)**, I have successfully designed and optimized Odoo modules, implemented automation, and enhanced ERP functionalities for various businesses.  
 
+<strong>Reach me on Upwork at:</strong>
+<a href="https://www.upwork.com/freelancers/~01343b0fb318551eee?mp_source=share" target="_blank" rel="noopener noreferrer">
+  Click here to view my profile
+</a>
+
 📌 **Key Highlights:**  
 - **👨‍💻 Odoo Development:** Customized and optimized **10+ Odoo projects**, including **Cross Border Freight Management**, **Tagged Messages Module**, and **POS Customization**.  
 - **🎓 Instructor & Mentor:** Trained **150+ students** in Python programming at **BanoQabil**.  
@@ -125,7 +130,7 @@ I am a **Senior Odoo Consultant & Python Developer** with expertise in **Odoo ER
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=smuhabdullah&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=smuhabdullah&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+<!--   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=smuhabdullah&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" /> -->
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views) -->
 
